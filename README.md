@@ -1,1 +1,1 @@
-## This poject shows how to work with github action
+## This poject shows how to work with github action and docker image creation
