@@ -1,0 +1,1 @@
+## This poject shows how to work with githuv action
