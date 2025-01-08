@@ -1,1 +1,1 @@
-## This poject shows how to work with githuv action
+## This poject shows how to work with github action
